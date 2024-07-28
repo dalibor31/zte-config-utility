@@ -1,0 +1,1 @@
+python examples/decode.py config.bin config.xml
